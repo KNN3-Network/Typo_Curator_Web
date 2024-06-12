@@ -1,8 +1,5 @@
-# Red Packet
+# TypoCurator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+TypoCurator: Revolutionizing Decentralized Data Management
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+TypoCurator is a core component of the TypoX AI ecosystem, a decentralized tagging and data curation protocol designed to leverage global user intelligence to provide high-quality Web3 intent datasets. With TypoCurator, we are redefining data management and tagging, bringing innovation and efficiency to the Web3 world.
